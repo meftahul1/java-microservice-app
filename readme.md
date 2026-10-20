@@ -1,4 +1,4 @@
-# Patient Management
+# Spring Boot Microservice Application
 
 A Java and Spring Boot microservices project simply for learning purpose of how REST API and gRPC. Each service has its own Maven build and Dockerfile, demonstrating how independently packaged services can use different communication protocols.
 
